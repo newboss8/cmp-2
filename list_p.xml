@@ -1,0 +1,14 @@
+ 
+<m label="P">
+  <m label="tudou">
+    <m label="tudou model iid" src="p/?http://www.tudou.com/programs/view/rwQ4CNxNbQ0/.tudou"/>
+  </m>
+  <m label="56">
+    <m label="56 xiu list 主播大厅" list_src="p/?56/xiu/0"/>
+    <m label="56 xiu list 明星主播" list_src="p/?56/xiu/1"/>
+    <m label="56 xiu list 红心主播" list_src="p/?56/xiu/2"/>
+    <m label="56 xiu list 美女主播" list_src="p/?56/xiu//34"/>
+  </m>
+  <m label="other">
+  </m>  
+</m>
