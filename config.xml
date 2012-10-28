@@ -1,30 +1,28 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
 <cmp
   name="CMP4 - 『生活需要音乐』" link="http://www.haotinggequ.com/" description="好聽歌曲網｜推薦最好聽的DJ歌曲 %3Cbr> 点击＋号查看更多资源"
   auto_play="0" auto_open="1" list_delete="1" play_id=""
   sound_sample="1" mixer_displace="1" mixer_filter="1"
   counter="http://img.users.51.la/241713.asp"
 
-    video_image="{src:plugins/bg.swf,lock:0,xywh:[0c,0c,100p,100p]}"
+  video_image="{src:plugins/bg.swf,lock:0,xywh:[0c,0c,100p,100p]}"
 
-lists='list.xml?2012-03-12'
+  lists='list.xml?2012-03-12'
 
-skin_id="1"
+  skin_id="1"
   skins="
-skins/default.zip,
-skins/xdj.zip,
-skins/qqplayer.zip,
-skins/wmp11.zip,
-skins/exobud.zip,
-skins/tudou.zip,
-skins/mini/vplayer.zip
-"
+        skins/default.zip,
+        skins/xdj.zip,
+        skins/qqplayer.zip,
+        skins/wmp11.zip,
+        skins/exobud.zip,
+        skins/tudou.zip,
+        skins/mini/vplayer.zip
+        "
 
-backgrounds=""
+  backgrounds=""
 
-plugins="
-plugins/plugins.zip?2012-03-12
-"
+  plugins="plugins/plugins.zip?2012-03-12"
   bg_src="http://www.haotinggequ.com/sites/all/libraries/cmp/p/?bg/rand"
   announce_xywh="0c,0,100P,20" announce_speed="2" announce_content="%3Cb>好聽歌曲網｜%3Ca href='http://www.haotinggequ.com/'>HaoTingGeQu.Com%3C/a> - 『推薦最好聽的DJ歌曲』｜转到%3Ca href='http://haotinggequ.com'>%3Cfont color='#FF0000'>好听歌曲%3C/font>%3C/a>｜转到%3Ca href='help/'>%3Cfont color='#FF0000'>Cmp帮助开发手册%3C/font>%3C/a> ｜ 使用说明：点击列表痭＋号查看更多资源；双击列表内容进行播放；双击视频全屏播放，按ESC退出全屏；点视频进行播放或暂停。%3C/b>"
   ga_id="UA-9406170-4" ga_debug="0"

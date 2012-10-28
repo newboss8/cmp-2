@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 CMP音乐列表文件
 
@@ -27,6 +28,6 @@ CMP音乐列表文件
   </m>
   <m label="打开的目录" opened="1">
     <m type="" src="music/test.mp3" lrc="" label="test" />
-  </m>  
+  </m>
   <m list_src="list_p.xml" label="P" />
 </list>
