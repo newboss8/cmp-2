@@ -1,3 +1,2 @@
-
-/proxys/
+/proxys/*.php
 !/proxys/index.php
